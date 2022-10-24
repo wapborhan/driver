@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: 'afta_serifitalic';
+    src: url('../fonts/aftaserifthin-italic-webfont-webfont.eot');
+    src: url('../fonts/aftaserifthin-italic-webfont-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aftaserifthin-italic-webfont-webfont.woff2') format('woff2'),
+         url('../fonts/aftaserifthin-italic-webfont-webfont.woff') format('woff'),
+         url('../fonts/aftaserifthin-italic-webfont-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sofia_proextralight';
+    src: url('../fonts/sofia_pro_extralight_az-webfont.woff2') format('woff2'),
+         url('../fonts/sofia_pro_extralight_az-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'sofia_proregular';
+    src: url('../fonts/sofia_pro_regular_az-webfont.woff2') format('woff2'),
+         url('../fonts/sofia_pro_regular_az-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'sofia_prosemibold';
+    src: url('../fonts/sofia_pro_semi_bold_az-webfont.woff2') format('woff2'),
+         url('../fonts/sofia_pro_semi_bold_az-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
